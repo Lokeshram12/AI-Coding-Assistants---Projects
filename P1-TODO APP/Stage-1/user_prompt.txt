@@ -1,0 +1,8 @@
+Let us get this in simple way. SImple todo app : only server side no UI. 
+endpoints : add task,retrieve(display) task,update and delete task 
+tech stack : nodejs,express js and mongo db. 
+Stage 1: simple on the go /resets on refresh 
+Stage 2 : data on local storage 
+Stage 3 : data on cache 
+Stage 4 : data on DB 
+Stage 5 : may be used by multiple user with authentication(Advanced not needed initially).
